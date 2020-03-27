@@ -7,6 +7,7 @@ int main()
 {
 
     std::cout << "Hello World!\n";
+    std::cout << "Das ist ein Git-Test" << std::endl;
 }
 
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"
