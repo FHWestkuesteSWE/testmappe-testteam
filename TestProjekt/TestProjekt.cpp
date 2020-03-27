@@ -5,6 +5,7 @@
 
 int main()
 {
+    std::cout << "Dieser Test ist erfolgreich !" << std::endl;
     std::cout << "Hello World!\n";
 }
 
