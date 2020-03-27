@@ -5,6 +5,7 @@
 
 int main()
 {
+    // jetzt machen wir einen Konflikt
     std::cout << "Dieser Test ist erfolgreich !" << std::endl;
     std::cout << "Hello World!\n";
 }
